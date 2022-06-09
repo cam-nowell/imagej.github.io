@@ -38,9 +38,9 @@ A textbook for constructing bioimage analysis workflows using ImageJ macro, Matl
 
 <div style="text-align:center;" markdown="1">
 <a href="https://bit.ly/33ISS0u"><img src="/media/books/fiji-training-notes.png" width="247" height="350"></a>\\
-[Fiji Training Notes](https://bit.ly/33ISS0u) including
-[demo images](https://bit.ly/3ffrJZs) from Monash University. Detailed
-screenshot and explaination steps on basic analysis through to macro code
+[Fiji Training Notes](https://bit.ly/3xz03K5) including
+[demo images](https://bit.ly/3H4fz41) from Monash University. Detailed
+screenshot and explaination steps on basic analysis through to macro code. Updated June 2022 to v6.4.
 </div>
 
 </div>
